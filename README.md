@@ -15,15 +15,16 @@ Steps for adding your name below
 
 1. Fork this repo
 2. Edit `index.html` file
-3. COPY your code add to it  
-     </article>
-                   <article class="card__article swiper-slide">
+3. Copy code and edit and add to index.html
+   
+                    <article>
+                     <article class= "card__article swiper-slide">
                      <div class="card__image">
                         <img src="Main/img/ WHAT AVATAR U LIKE .png" alt="image" class="card__img">
                         <div class="card__shadow"></div>
                      </div>
 
-                     <div class="card__data">
+           <div class="card__data">
                         <h3 class="card__name"> YOUR NAME</h3>
                         <p class="card__description">
                          YOUR DESCRIPTION HERE .............
@@ -33,4 +34,4 @@ Steps for adding your name below
                      </div>
                   </article>
 
-4. Make pull request
+5. Make pull request
