@@ -35,3 +35,14 @@ Steps for adding your name below
                   </article>
 
 5. Make pull request
+
+Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+
+## Additional references added by contributors
+
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
+## Additional references for Contributors
+- Contributions make the open source community such an amazing place to learn, inspire, and create.
+- Any contributions you make are **truly appreciated**.
+- Check out our [`contributors`](./CONTRIBUTING.md) for more information.
