@@ -64,6 +64,7 @@ img {
 }
 
 .card__article {
+  margin: 5px;
   width: 300px; /* Remove after adding swiper js */
   border-radius: 1.25rem;
   overflow: hidden;
